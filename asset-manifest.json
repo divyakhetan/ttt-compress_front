@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ttt-compress_front/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ttt-compress_front/static/js/main.b5819503.chunk.js",
+    "main.js.map": "/ttt-compress_front/static/js/main.b5819503.chunk.js.map",
+    "runtime-main.js": "/ttt-compress_front/static/js/runtime-main.aff075da.js",
+    "runtime-main.js.map": "/ttt-compress_front/static/js/runtime-main.aff075da.js.map",
+    "static/js/2.4519e375.chunk.js": "/ttt-compress_front/static/js/2.4519e375.chunk.js",
+    "static/js/2.4519e375.chunk.js.map": "/ttt-compress_front/static/js/2.4519e375.chunk.js.map",
+    "index.html": "/ttt-compress_front/index.html",
+    "precache-manifest.13fc08e373c4f5a5ede14d6bec437426.js": "/ttt-compress_front/precache-manifest.13fc08e373c4f5a5ede14d6bec437426.js",
+    "service-worker.js": "/ttt-compress_front/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ttt-compress_front/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4519e375.chunk.js.LICENSE.txt": "/ttt-compress_front/static/js/2.4519e375.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ttt-compress_front/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff075da.js",
+    "static/js/2.4519e375.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b5819503.chunk.js"
+  ]
+}
