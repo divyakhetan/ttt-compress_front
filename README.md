@@ -17,11 +17,11 @@ The testcases:
 
 1. To get encoded string
 
-![Image of encoded string](https://dl.dropbox.com/s/ermzxqrsjkfc1lt/pic6.JPG?dl=0)
+![Image of encoded string](https://dl.dropbox.com/s/xwmtnvvm91x4bzr/pic11.JPG?dl=0)
 
 2. To get decoded string
 
-![Image of decoded string](https://dl.dropbox.com/s/u7yjcxuzcht8567/pic7.JPG?dl=0)
+![Image of decoded string](https://dl.dropbox.com/s/rt3bra2cug5qcd3/pic12.JPG?dl=0)
 
 
 
